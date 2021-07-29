@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/calculator-with-class-hook/static/css/main.ea1455b2.chunk.css",
+    "main.js": "/calculator-with-class-hook/static/js/main.2e3e97b9.chunk.js",
+    "main.js.map": "/calculator-with-class-hook/static/js/main.2e3e97b9.chunk.js.map",
+    "runtime-main.js": "/calculator-with-class-hook/static/js/runtime-main.dd2748ec.js",
+    "runtime-main.js.map": "/calculator-with-class-hook/static/js/runtime-main.dd2748ec.js.map",
+    "static/js/2.73491ae4.chunk.js": "/calculator-with-class-hook/static/js/2.73491ae4.chunk.js",
+    "static/js/2.73491ae4.chunk.js.map": "/calculator-with-class-hook/static/js/2.73491ae4.chunk.js.map",
+    "index.html": "/calculator-with-class-hook/index.html",
+    "static/css/main.ea1455b2.chunk.css.map": "/calculator-with-class-hook/static/css/main.ea1455b2.chunk.css.map",
+    "static/js/2.73491ae4.chunk.js.LICENSE.txt": "/calculator-with-class-hook/static/js/2.73491ae4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd2748ec.js",
+    "static/js/2.73491ae4.chunk.js",
+    "static/css/main.ea1455b2.chunk.css",
+    "static/js/main.2e3e97b9.chunk.js"
+  ]
+}
